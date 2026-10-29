@@ -1,0 +1,5 @@
+{
+ "name":"大和店 采配ナビ","short_name":"采配ナビ","start_url":"./index.html",
+ "display":"standalone","background_color":"#0f1218","theme_color":"#0f1218",
+ "icons":[{"src":"icon.png","sizes":"512x512","type":"image/png"}]
+}
